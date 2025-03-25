@@ -36,3 +36,5 @@ app.use(express.static("public"));
 server.listen(3000, "0.0.0.0", () => {
   console.log("Сервер запущен на порту 3000");
 });
+
+
